@@ -28,6 +28,7 @@ gulp.task('css',function () {
             cascade: false
         }))
         .pipe(csso())
+        .pipe(concat('merge.css'))
         .pipe(gulp.dest('dist/css'));
 });
 
