@@ -1,0 +1,16 @@
+.testing {
+  width: 42.85714%; }
+
+.div {
+  width: 14.28571%;
+  display: flex;
+  flex-basis: 10%; }
+
+.div2 {
+  width: 14.28571%;
+  display: flex;
+  flex-basis: 30%; }
+.div3 {
+  width: 14.28571%;
+  display: flex;
+  flex-basis: 30%; }
